@@ -1,4 +1,4 @@
 # Projects
-This folder showcases projects I have completed.
+This is where I will store the files for my first project.
 ## Contents
 * [Hello World](hello_world)
